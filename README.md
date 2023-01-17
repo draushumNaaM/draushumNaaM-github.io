@@ -15,3 +15,8 @@
 * Give options: Ramp up the violence/tension, or de-escalate?
 * Remind players of important details from previous sessions
  
+## Roleplaying Stuff
+
+
+## Player Stuff
+* Action points? (4e)
